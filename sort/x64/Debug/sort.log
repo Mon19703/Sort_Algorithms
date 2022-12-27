@@ -1,0 +1,6 @@
+﻿  sort.cpp
+D:\workspace\SortAlgorithms\sort\sort\graphics.h(54,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\workspace\SortAlgorithms\sort\sort\graphics.h(55,59): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\workspace\SortAlgorithms\sort\sort\graphics.h(339,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+D:\workspace\SortAlgorithms\sort\sort\graphics.h(340,11): warning C4244: '*=': conversion from 'double' to 'SHORT', possible loss of data
+  sort.vcxproj -> D:\workspace\SortAlgorithms\sort\x64\Debug\sort.exe
